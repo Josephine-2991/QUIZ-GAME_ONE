@@ -1,8 +1,8 @@
 // The Question Object
 const quiz_questions = [
      {
-          question: 'What is the mother of Jesus? ',
-          option: ['Jane', 'Martha', 'Racheal', 'Deborah'],
+          question: 'Who is the mother of Jesus? ',
+          option: ['Mary', 'Martha', 'Racheal', 'Deborah'],
           correctAns: "Mary"
       },
       {
