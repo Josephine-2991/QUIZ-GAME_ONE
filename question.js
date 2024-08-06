@@ -68,7 +68,7 @@ const btn_submit = quizContainer.querySelector('.btn_submit');
         quiz_text.innerHTML = `<p>Wow! Your answer is correct 🤩😂 Your current score is ${score}</p>`;
      } else {
          quiz_text.innerHTML=''
-         quiz_text.innerHTML = `<p>Wow! Your answer is incorrect 😭😭 Your current score is ${score}</p>`;
+         quiz_text.innerHTML = `<p>Oops! Your answer is incorrect 😭😭 Your current score is ${score}</p>`;
      }
      
  
